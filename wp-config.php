@@ -20,16 +20,16 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'b12_16830182_suvidha_store');
+define('DB_NAME', 'php');
 
 /** MySQL database username */
-define('DB_USER', 'b12_16830182');
+define('DB_USER', 'admin54B8wUT');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'lashfire');
+define('DB_PASSWORD', '1872dkVz6fHH');
 
 /** MySQL hostname */
-define('DB_HOST', 'sql212.byethost12.com');
+define('DB_HOST', '127.3.170.130');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8mb4');
